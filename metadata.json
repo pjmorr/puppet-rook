@@ -1,5 +1,5 @@
 {
-  "name": "puppetlabs-rook",
+  "name": "puppet-rook",
   "version": "0.1.0",
   "author": "puppetlabs",
   "summary": "A module for installing and configuring rook https://rook.io",
